@@ -1,0 +1,15 @@
+/home/basfeo/Documents/cntlworkgb/bin/Debug/net7.0/control
+/home/basfeo/Documents/cntlworkgb/bin/Debug/net7.0/control.deps.json
+/home/basfeo/Documents/cntlworkgb/bin/Debug/net7.0/control.runtimeconfig.json
+/home/basfeo/Documents/cntlworkgb/bin/Debug/net7.0/control.dll
+/home/basfeo/Documents/cntlworkgb/bin/Debug/net7.0/control.pdb
+/home/basfeo/Documents/cntlworkgb/obj/Debug/net7.0/control.csproj.AssemblyReference.cache
+/home/basfeo/Documents/cntlworkgb/obj/Debug/net7.0/control.GeneratedMSBuildEditorConfig.editorconfig
+/home/basfeo/Documents/cntlworkgb/obj/Debug/net7.0/control.AssemblyInfoInputs.cache
+/home/basfeo/Documents/cntlworkgb/obj/Debug/net7.0/control.AssemblyInfo.cs
+/home/basfeo/Documents/cntlworkgb/obj/Debug/net7.0/control.csproj.CoreCompileInputs.cache
+/home/basfeo/Documents/cntlworkgb/obj/Debug/net7.0/control.dll
+/home/basfeo/Documents/cntlworkgb/obj/Debug/net7.0/refint/control.dll
+/home/basfeo/Documents/cntlworkgb/obj/Debug/net7.0/control.pdb
+/home/basfeo/Documents/cntlworkgb/obj/Debug/net7.0/control.genruntimeconfig.cache
+/home/basfeo/Documents/cntlworkgb/obj/Debug/net7.0/ref/control.dll
